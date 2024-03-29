@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testedavid.PedidoPizzaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-03-29T20:12:39" hostname="LAPTOP-SMHDDO52" time="0.031">
+  <properties/>
+  <testcase name="testCalcularTotalParaEntrega()" classname="testedavid.PedidoPizzaTest" time="0.028"/>
+  <testcase name="testCalcularTotalSemEntrega()" classname="testedavid.PedidoPizzaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
